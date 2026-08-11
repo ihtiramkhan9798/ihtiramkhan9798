@@ -1,6 +1,6 @@
-# Ihtiram Khan — Full Stack Developer 👋
+# Ihtiram Khan — Full Stack Engineer 👋
 
-A pragmatic full stack developer who builds performant, maintainable web applications from prototype to production. I focus on product-quality engineering, delightful UX, and scalable backends.
+A pragmatic full stack Engineer who builds performant, maintainable web applications from Scratch to production. I focus on product-quality engineering, delightful UX, and scalable backends. DM for Paid Collaboration.
 
 - 🔭 Currently building: Scalable web apps and APIs
 - 🌱 Learning: Advanced system design, Observability & Distributed systems
@@ -13,14 +13,14 @@ A pragmatic full stack developer who builds performant, maintainable web applica
 
 Frontend
 - HTML5, CSS3 (Tailwind), JavaScript, TypeScript
-- React.js , Redux,  React Query, Vite.
+- React.js , Next.js, Redux,  React Query, Vite.
 
    Animations
   - GSAP , Locomotive , Barba.js and Framer Motion.
 
 Backend
 - Node.js (Express, Nest), TypeScript
-- REST APIs, GraphQL (Apollo)
+- REST APIs, Websocket API, GraphQL (Apollo)
 - Authentication, Authorization, WebSockets
 
 Databases & Storage
@@ -68,7 +68,7 @@ Tools
 - Incremental delivery: small PRs, code reviews, and thorough docs
 - Observability: logs, metrics, and alerts for production issues
 
-## Contact & Hire
+## Contact :
 
 - Email: ihtiramkhan2006@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/ihtiramkhan0099/)
@@ -77,4 +77,4 @@ Tools
 If you're interested in collaborating or hiring, send a short note describing the project and goals — I typically reply within a few business days.
 
 
-Thanks for stopping by — let’s build great products together! 🚀
+DM for paid Collaboration 🚀
