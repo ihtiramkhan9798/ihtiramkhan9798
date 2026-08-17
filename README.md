@@ -6,7 +6,7 @@ A pragmatic full stack Engineer who builds performant, maintainable web applicat
 - 🌱 Learning: Advanced system design, Observability & Distributed systems
 - 👯 Open to: Full-stack roles, API design, and open-source collaboration
 - 💬 Ask me about: React, Next.js, TypeScript, Node.js, REST/GraphQL, PostgreSQL, Docker, AWS
-- 📫 Email: your.email@example.com
+- 📫 Email: mihtiram2006@gmail.com
 - ⚡ Fun fact: I prefer shipping small, iterative improvements with automated tests and CI.
 
 ## Core Skills
