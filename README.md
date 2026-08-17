@@ -1,13 +1,12 @@
 # Ihtiram Khan — Full Stack Engineer 👋
 
-A pragmatic full stack Engineer who builds performant, maintainable web applications from Scratch to production. I focus on product-quality engineering, delightful UX, and scalable backends. DM for Paid Collaboration.
+"I'm a full stack engineer. I build web applications from scratch to production. DM for paid collaboration."
 
 - 🔭 Currently building: Scalable web apps and APIs
-- 🌱 Learning: Advanced system design, Observability & Distributed systems
 - 👯 Open to: Full-stack roles, API design, and open-source collaboration
-- 💬 Ask me about: React, Next.js, TypeScript, Node.js, REST/GraphQL, PostgreSQL, Docker, AWS
+- 💬 Ask me about: React, Next.js, TypeScript, Node.js, REST/GraphQL,MongoDB,AWS.
 - 📫 Email: mihtiram2006@gmail.com
-- ⚡ Fun fact: I prefer shipping small, iterative improvements with automated tests and CI.
+
 
 ## Core Skills
 
@@ -24,8 +23,8 @@ Backend
 - Authentication, Authorization, WebSockets
 
 Databases & Storage
-- PostgreSQL, MySQL, Redis, MongoDB
-- ORMs: Prisma, TypeORM
+MongoDB
+ORMs/ODMs: Prisma, Mongoos
 
 Cloud, DevOps & Observability
 - Docker, GitHub Actions, Terraform basics
