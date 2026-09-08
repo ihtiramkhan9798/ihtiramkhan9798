@@ -52,16 +52,6 @@ I build production-ready web applications — from database design and REST APIs
 
 ---
 
-### 📊 GitHub Stats
-
-![Ihtiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihtiram-khan&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtiram-khan&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihtiram-khan&hide_border=true)
-
----
-
 ### 📌 What You'll Find Here
 
 - 🌐 Full-stack MERN applications
