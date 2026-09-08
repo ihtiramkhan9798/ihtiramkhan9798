@@ -1,79 +1,77 @@
-# Ihtiram Khan — Full Stack Engineer 👋
+### 👋 Hi, I'm Ihtiram Khan
 
-"I'm a full stack engineer. I build web applications from scratch to production. DM for paid collaboration."
+🚀 Full-Stack Developer (MERN) | 2+ Years of Experience
 
-- 🔭 Currently building: Scalable web apps and APIs
-- 👯 Open to: Full-stack roles, API design, and open-source collaboration
-- 💬 Ask me about: React, Next.js, TypeScript, Node.js, REST/GraphQL,MongoDB,AWS.
-- 📫 Email: mihtiram2006@gmail.com
+I build production-ready web applications — from database design and REST APIs to polished, responsive frontends. I care about clean architecture, maintainable code, and shipping features that actually work end-to-end.
 
+---
 
-## Core Skills
+### 🧠 What I Work On
 
-Frontend
-- HTML5, CSS3 (Tailwind), JavaScript, TypeScript
-- React.js , Next.js, Redux,  React Query, Vite.
+- 🌐 **Full-Stack Web Apps**
+  - RESTful APIs with Node.js & Express
+  - Scalable data models with MongoDB
+  - Responsive, component-driven frontends with React
+- 🔐 **Backend Fundamentals**
+  - Authentication & authorization (JWT, sessions, OAuth)
+  - API design, middleware, and error handling
+  - Database schema design & query optimization
+- 🎨 **Frontend Engineering**
+  - React (Hooks, Context API, state management)
+  - Responsive UI with modern CSS / Tailwind
+  - Reusable component architecture
 
-   Animations
-  - GSAP , Locomotive , Barba.js and Framer Motion.
+---
 
-Backend
-- Node.js (Express, Nest), TypeScript
-- REST APIs, Websocket API, GraphQL (Apollo)
-- Authentication, Authorization, WebSockets
+### 🚀 Tech Stack
 
-Databases & Storage
-MongoDB
-ORMs/ODMs: Prisma, Mongoos
+**Frontend**
 
-Cloud, DevOps & Observability
-- Docker, GitHub Actions, Terraform basics
-- AWS: Lambda, ECS, S3, RDS
-- Logging & Monitoring: Prometheus, Grafana, Sentry
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-Testing & Quality
-- Jest, Playwright / Cypress, Supertest
-- ESLint, Prettier, Type checks
+**Backend**
 
-Tools
-- Git, GitHub, Postman, VS Code, Figma (hand-off)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+**Tools & Platforms**
 
-## Selected Projects
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
-1. Realtime Chat Platform
-   - Short: Group & private chat with presence, typing indicators, and message search.
-   - Tech: Next.js, React, WebSocket (Socket.io), Node.js, PostgreSQL, Redis
-   - Repo: https://github.com/ihtiramkhan9798/realtime-chat
-   - Highlights: Implemented real-time syncing and message persistence with <=200ms typical latency.
+---
 
-2. E-commerce API & Admin Dashboard
-   - Short: Headless ecommerce backend with product/catalog management and analytics.
-   - Tech: Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker, GitHub Actions
-   - Repo: https://github.com/ihtiramkhan9798/ecommerce-backend
-   - Highlights: Built scalable API, automated CI/CD, and role-based admin features.
+### 📊 GitHub Stats
 
-3. Server-Side Rendered Portfolio / Blog
-   - Short: Personal portfolio with blog, SEO, and contact form.
-   - Tech: Next.js (SSR), MDX, Vercel, Tailwind CSS
-   - Repo: https://github.com/ihtiramkhan9798/portfolio
-   - Highlights: Fast load times, SEO-first content, and streamlined content editing with MDX.
+![Ihtiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihtiram-khan&show_icons=true&theme=default&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihtiram-khan&layout=compact&hide_border=true)
 
-## How I Work
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ihtiram-khan&hide_border=true)
 
-- Product-driven: feature first, validated with metrics and user feedback
-- Test-first mindset: unit + integration + E2E where valuable
-- Incremental delivery: small PRs, code reviews, and thorough docs
-- Observability: logs, metrics, and alerts for production issues
+---
 
-## Contact :
+### 📌 What You'll Find Here
 
-- Email: ihtiramkhan2006@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/ihtiramkhan0099/)
-- GitHub: https://github.com/ihtiramkhan9798
+- 🌐 Full-stack MERN applications
+- 🔌 REST API projects with authentication & database integration
+- 🧪 Practice projects & experiments as I keep leveling up
 
-If you're interested in collaborating or hiring, send a short note describing the project and goals — I typically reply within a few business days.
+Each repo aims for clean structure, readable code, and real-world usability.
 
+---
 
-DM for paid Collaboration 🚀
+### 🤝 Let's Connect
+
+⭐️ Open to freelance work, collaborations, and full-stack opportunities.
