@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Ihtiram Khan
+### 👋 Hi, I'm Muhammad Ihtiram 
 
 🚀 Full-Stack Developer (MERN) | 2+ Years of Experience
 
